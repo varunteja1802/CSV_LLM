@@ -26,7 +26,7 @@ Upload your CSV file using the Streamlit web application.
 Ask questions related to the data.
 Note the improved accuracy compared to the pretrained model.
 ### Important Note:
-The current repository does not include the third approach, which involves converting the CSV to text format using df2str and fine-tuning the Llama 2 model with custom text data. If given additional time, this approach would be completed to enhance accuracy.
+The current repository does not include the third approach, which involves converting the CSV to text format using df2str and fine-tuning the Llama 2 model with custom text data. As this approach would consume lots of time and need lots of computational support I have not used this but a deep literature review has been done and if this approach would be completed then the accuracy would be enhanced.
 
 # Getting Started
 To run the Streamlit web application locally, make sure you have the necessary dependencies installed. You can do this by running: 
