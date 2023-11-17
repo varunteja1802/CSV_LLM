@@ -1,3 +1,12 @@
+#Student Details 
+
+Kalakoti Varun Teja 
+Woxsen University 
+ID: 20U0101001 
+email:varunteja.kalakoti_2024@woxsen.edu.in 
+M:+918333890029
+
+
 # CSV_LLM
 tensorgo_assignment 
 
