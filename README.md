@@ -30,6 +30,7 @@ The current repository does not include the third approach, which involves conve
 
 # Getting Started
 To run the Streamlit web application locally, make sure you have the necessary dependencies installed. You can do this by running: 
+first git clone this repository and then perform the below tasks 
 pip install -r requirements.txt
 
 streamlit run app.py (for approach 1)
